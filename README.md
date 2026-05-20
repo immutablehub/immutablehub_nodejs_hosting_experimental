@@ -1,4 +1,7 @@
 ## Pseudocode: Immutable Hosting Application to Cloud
+
+
+[BETA LIVE]
 FUNCTION HostApplication(sourceDirectory, databaseClient):
 
 ```Authentication & Identity
